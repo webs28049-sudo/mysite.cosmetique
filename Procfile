@@ -1,1 +1,1 @@
-web: gunicorn cosmetics.wsgi
+web: gunicorn mysite.wsgi
